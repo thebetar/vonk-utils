@@ -28,3 +28,6 @@
 [submodule "SparkTracker"]
 	path = SparkTracker
 	url = https://github.com/thebetar/SparkTracker
+[submodule "VonkCountGame"]
+	path = VonkCountGame
+	url = https://github.com/thebetar/VonkCountGame
