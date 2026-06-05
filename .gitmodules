@@ -1,0 +1,30 @@
+[submodule "kwik-mq"]
+	path = kwik-mq
+	url = https://github.com/thebetar/kwik-mq
+[submodule "pheme-protocol"]
+	path = pheme-protocol
+	url = https://github.com/thebetar/pheme-protocol
+[submodule "janus-zip"]
+	path = janus-zip
+	url = https://github.com/thebetar/janus-zip
+[submodule "NetworkSpeedTest"]
+	path = NetworkSpeedTest
+	url = https://github.com/thebetar/NetworkSpeedTest
+[submodule "VonkEditor"]
+	path = VonkEditor
+	url = https://github.com/thebetar/VonkEditor
+[submodule "VonkDB"]
+	path = VonkDB
+	url = https://github.com/thebetar/VonkDB
+[submodule "VonkHash"]
+	path = VonkHash
+	url = https://github.com/thebetar/VonkHash
+[submodule "VonkListTree"]
+	path = VonkListTree
+	url = https://github.com/thebetar/VonkListTree
+[submodule "VonkEncrypt"]
+	path = VonkEncrypt
+	url = https://github.com/thebetar/VonkEncrypt
+[submodule "SparkTracker"]
+	path = SparkTracker
+	url = https://github.com/thebetar/SparkTracker
