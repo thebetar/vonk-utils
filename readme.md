@@ -17,3 +17,5 @@ Each project is a git submodule with its own repository.
 - [`VonkCountGame`](https://github.com/thebetar/VonkCountGame): Terminal game for practicing decimal to binary and hex conversion in C++.
 - [`SparkTracker`](https://github.com/thebetar/SparkTracker): Lightweight anonymous event tracking for the web.
 - [`NetworkSpeedTest`](https://github.com/thebetar/NetworkSpeedTest): Scheduled network speed test logger in Node.js.
+- [`abeona-proxy`](https://github.com/thebetar/abeona-proxy): Reverse proxy with load balancing in TypeScript.
+- [`chronos-cron`](https://github.com/thebetar/chronos-cron): Simple cron job runner configured via JSON in TypeScript.

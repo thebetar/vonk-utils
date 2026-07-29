@@ -31,3 +31,9 @@
 [submodule "VonkCountGame"]
 	path = VonkCountGame
 	url = https://github.com/thebetar/VonkCountGame
+[submodule "abeona-proxy"]
+	path = abeona-proxy
+	url = https://github.com/thebetar/abeona-proxy
+[submodule "chronos-cron"]
+	path = chronos-cron
+	url = https://github.com/thebetar/chronos-cron
