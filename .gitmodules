@@ -1,39 +1,52 @@
 [submodule "kwik-mq"]
 	path = kwik-mq
 	url = https://github.com/thebetar/kwik-mq
+	branch = master
 [submodule "pheme-protocol"]
 	path = pheme-protocol
 	url = https://github.com/thebetar/pheme-protocol
+	branch = master
 [submodule "janus-zip"]
 	path = janus-zip
 	url = https://github.com/thebetar/janus-zip
+	branch = master
 [submodule "NetworkSpeedTest"]
 	path = NetworkSpeedTest
 	url = https://github.com/thebetar/NetworkSpeedTest
+	branch = master
 [submodule "VonkEditor"]
 	path = VonkEditor
 	url = https://github.com/thebetar/VonkEditor
+	branch = master
 [submodule "VonkDB"]
 	path = VonkDB
 	url = https://github.com/thebetar/VonkDB
+	branch = master
 [submodule "VonkHash"]
 	path = VonkHash
 	url = https://github.com/thebetar/VonkHash
+	branch = master
 [submodule "VonkListTree"]
 	path = VonkListTree
 	url = https://github.com/thebetar/VonkListTree
+	branch = master
 [submodule "VonkEncrypt"]
 	path = VonkEncrypt
 	url = https://github.com/thebetar/VonkEncrypt
+	branch = master
 [submodule "SparkTracker"]
 	path = SparkTracker
 	url = https://github.com/thebetar/SparkTracker
+	branch = master
 [submodule "VonkCountGame"]
 	path = VonkCountGame
 	url = https://github.com/thebetar/VonkCountGame
+	branch = master
 [submodule "abeona-proxy"]
 	path = abeona-proxy
 	url = https://github.com/thebetar/abeona-proxy
+	branch = master
 [submodule "chronos-cron"]
 	path = chronos-cron
 	url = https://github.com/thebetar/chronos-cron
+	branch = master
