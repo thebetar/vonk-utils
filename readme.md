@@ -6,16 +6,17 @@ A collection of small projects for exploring how specific concepts work: compres
 
 Each project is a git submodule with its own repository.
 
+- [`abeona-proxy`](https://github.com/thebetar/abeona-proxy): Reverse proxy with load balancing in TypeScript.
+- [`chronos-cron`](https://github.com/thebetar/chronos-cron): Simple cron job runner configured via JSON in TypeScript.
+- [`mimir-cache`](https://github.com/thebetar/mimir-cache): In-memory HTTP caching service in Go.
 - [`janus-zip`](https://github.com/thebetar/janus-zip): Huffman compression library in Go.
 - [`kwik-mq`](https://github.com/thebetar/kwik-mq): Lightweight message queue service in Go.
 - [`pheme-protocol`](https://github.com/thebetar/pheme-protocol): TCP-like reliable delivery protocol in Go.
+- [`NetworkSpeedTest`](https://github.com/thebetar/NetworkSpeedTest): Scheduled network speed test logger in Node.js.
+- [`SparkTracker`](https://github.com/thebetar/SparkTracker): Lightweight anonymous event tracking for the web.
 - [`VonkHash`](https://github.com/thebetar/VonkHash): Simple checksum hashing tool in C.
 - [`VonkEncrypt`](https://github.com/thebetar/VonkEncrypt): Basic encryption library in C.
 - [`VonkDB`](https://github.com/thebetar/VonkDB): Simple CSV-backed database in C++.
 - [`VonkListTree`](https://github.com/thebetar/VonkListTree): CLI tool to list directories as a tree with file sizes.
 - [`VonkEditor`](https://github.com/thebetar/VonkEditor): Minimal terminal text editor in C++.
 - [`VonkCountGame`](https://github.com/thebetar/VonkCountGame): Terminal game for practicing decimal to binary and hex conversion in C++.
-- [`SparkTracker`](https://github.com/thebetar/SparkTracker): Lightweight anonymous event tracking for the web.
-- [`NetworkSpeedTest`](https://github.com/thebetar/NetworkSpeedTest): Scheduled network speed test logger in Node.js.
-- [`abeona-proxy`](https://github.com/thebetar/abeona-proxy): Reverse proxy with load balancing in TypeScript.
-- [`chronos-cron`](https://github.com/thebetar/chronos-cron): Simple cron job runner configured via JSON in TypeScript.

@@ -50,3 +50,7 @@
 	path = chronos-cron
 	url = https://github.com/thebetar/chronos-cron
 	branch = master
+[submodule "mimir-cache"]
+	path = mimir-cache
+	url = https://github.com/thebetar/mimir-cache
+	branch = master
