@@ -54,3 +54,7 @@
 	path = mimir-cache
 	url = https://github.com/thebetar/mimir-cache
 	branch = master
+[submodule "nabu-local-messaging"]
+	path = nabu-local-messaging
+	url = https://github.com/thebetar/nabu-local-messaging
+	branch = master
