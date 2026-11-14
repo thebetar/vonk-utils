@@ -9,7 +9,7 @@ Each project is a git submodule with its own repository.
 - [`abeona-proxy`](https://github.com/thebetar/abeona-proxy): Reverse proxy with load balancing in TypeScript.
 - [`chronos-cron`](https://github.com/thebetar/chronos-cron): Simple cron job runner configured via JSON in TypeScript.
 - [`mimir-cache`](https://github.com/thebetar/mimir-cache): In-memory HTTP caching service in Go.
-- [`turms-word-transcoder`](https://github.com/thebetar/turms-word-transcoder): Simple word encoder and decoder in Go.
+- [`turms-word-transcoder`](https://github.com/thebetar/turms-word-transcoder): Word embedding encoder and decoder in Go, based on Word2Vec.
 - [`janus-zip`](https://github.com/thebetar/janus-zip): Huffman compression library in Go.
 - [`kwik-mq`](https://github.com/thebetar/kwik-mq): Lightweight message queue service in Go.
 - [`pheme-protocol`](https://github.com/thebetar/pheme-protocol): TCP-like reliable delivery protocol in Go.
