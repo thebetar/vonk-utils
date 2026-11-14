@@ -58,3 +58,7 @@
 	path = nabu-local-messaging
 	url = https://github.com/thebetar/nabu-local-messaging
 	branch = master
+[submodule "turms-word-transcoder"]
+	path = turms-word-transcoder
+	url = https://github.com/thebetar/turms-word-transcoder
+	branch = master
